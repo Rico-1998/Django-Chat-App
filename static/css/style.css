@@ -1,0 +1,12 @@
+.page-content {
+    padding: 100px 100px;
+}
+
+.color-grey {
+    color: rgba(0, 0, 0, 0.4);
+}
+
+#messageContainer {
+    height: 400px;
+    overflow-y: auto;
+}
